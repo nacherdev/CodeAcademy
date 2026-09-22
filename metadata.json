@@ -1,0 +1,6 @@
+{
+  "name": "CodeAcademy",
+  "description": "Plataforma de aprendizaje online de programación gratuita, rápida e interactiva con resolución de dudas por IA y foro comunitario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
